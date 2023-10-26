@@ -2,14 +2,12 @@
 
 ### About Me
 
-I am a Self motivated Java Full Stack Developer pursuited Computer Science Engineering at Lourdes Matha Science And Technology Trivandrum,I seek opportunity to learn new technologies and passionate in this software field.I have a strong foundation in java core concepts and also web development like Springboot,HTML,CSS,Bootstrap and interacted with database like MySQL,And I love to learn new Technolgy to grow and stay up to date with this ever changing world.
+I am a Self motivated Java Full Stack Developer pursuited Computer Science Engineering at Lourdes Matha Science And Technology Trivandrum,I seek opportunity to learn new technologies and passionate in this software field.I have a strong foundation in java core concepts and also web development like Springboot,HTML,CSS,Bootstrap and interacted with database like MySQL,And I love to learn new Technology to grow and stay up to date with this ever changing world.
 
 
 ### Portfolio Highlights
 
 https://rohxnn.github.io/RohanProfile/
-
-
 
 #### Leadership and Influence: 
 
@@ -32,8 +30,12 @@ In my domain as a Java Full Stack Developer, I demonstrate leadership and influe
 
 * I believe Kerala has the potential to become a significant player in the technology startup ecosystem with continued support and a focus on addressing challenges,it can foster a thriving tech ecosystem that benefits both the local community and the global tech industry.
 
+#### Highly Visible Technical Content:
+
+* Nike-Clone-Website--> A Fully functionable Full Stack web project implemented in Springboot,HTML,CSS,Bootstrap,MySQL,Javascript do check out the website in [Nike-Clone-Website](https://nike-application-production.up.railway.app/nike/in)
 
 
 #### Competitive Website Profiles:
 
-Nike-Clone-Website- https://nike-application-production.up.railway.app/nike/in
+* Active member in HackerRank
+  
